@@ -1,17 +1,46 @@
 ![I am WordPress Expert](https://media.licdn.com/dms/image/C5616AQEwbZ_sxAzC1g/profile-displaybackgroundimage-shrink_350_1400/0/1668112974169?e=1681948800&v=beta&t=S_ve1QFOpEBpdoQWYmlBUu3-0vynfCrwcuj6-yAxKGc)
-### Hi there 👋, Shamim Ahmed
-#### I am WordPress Expert
+### Hi there 👋, I'm Shamim Ahmed  
+#### 💻 WordPress & Web Developer | SEO-Friendly Website Expert
 
-Hello 
-I am a professional Web Developer. I have done previously lots of work. Also successfully doing job BItChip Digital. Here I am appointed as a web developer. For my company, I got the opportunity to successfully finish big and higher-level projects. I have some strong skills in Fronted Web Development, WordPress, and Php. Also, I have some knowledge of SEO. For this, I can provide SEO-friendly web design. You can hire me for business Websites, Blogs, Ecommerce, portfolios, Law firms, Digital agencies, and Real Estate. I hope you will get my professional services. If you want to hire your company or business just inbox me.
-Thanks.
+Welcome to my GitHub profile!
 
-Skills: HTML/ CSS /PHP / WordPress
+I’m a professional Web Developer with strong experience in **WordPress**, **Frontend Development**, and **PHP**. Currently, I’m working at **BitChip Digital** as a Web Developer, where I’ve successfully completed various high-level projects for businesses across different industries.
 
-- 🔭 I’m currently working on BitChip 
-- 🌱 I’m currently learning PHP 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web Developer 
+I specialize in building:
+- Business Websites  
+- Blogs & News Portals  
+- E-commerce Stores (WooCommerce)  
+- Portfolio Sites  
+- Law Firm Websites  
+- Digital Agency Sites  
+- Real Estate Platforms  
+
+I’m passionate about creating SEO-friendly, fast, and responsive websites that not only look good but also perform well.
+
+---
+
+### 🛠️ Skills
+- HTML / CSS / Bootstrap  
+- PHP (Currently Learning)  
+- WordPress Theme & Plugin Customization  
+- SEO Basics & Optimization for Web  
+- Elementor / Astra / Divi / Popular WordPress Themes
+
+---
+
+### 🚀 What I’m Up To
+- 🔭 Currently working at **BitChip Digital**
+- 🌱 Learning advanced **PHP**
+- 👯 Looking to collaborate on **GitHub** projects
+- 💬 Ask me anything about **Web Development**
+
+---
+
+📬 **Let’s Connect**  
+If you’re looking to build or redesign a WordPress website, feel free to reach out. I’m always open to exciting collaborations and freelance opportunities.
+
+Thanks for visiting!
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shamim6009)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shamim6009/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shamim.ahmed.6009)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Shamim.6009)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shamimitsoft.com/)  
