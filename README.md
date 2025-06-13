@@ -1,4 +1,4 @@
-![I am WordPress Expert](https://media.licdn.com/dms/image/C5616AQEwbZ_sxAzC1g/profile-displaybackgroundimage-shrink_350_1400/0/1668112974169?e=1681948800&v=beta&t=S_ve1QFOpEBpdoQWYmlBUu3-0vynfCrwcuj6-yAxKGc)
+![Shamim Ahmed – WordPress Developer](https://avatars.githubusercontent.com/u/85074875?v=4)
 ### Hi there 👋, I'm Shamim Ahmed  
 #### 💻 WordPress & Web Developer | SEO-Friendly Website Expert
 
