@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/85074875?v=4" 
-       alt="Shamim Ahmed – WordPress Developer" 
-       width="200" 
-       style="border-radius: 50%; border: 4px solid #705EBD;" />
-</p>
+![Shamim Ahmed – WordPress Developer](https://avatars.githubusercontent.com/u/85074875?v=4)
 
 ### Hi there 👋, I'm Shamim Ahmed  
 #### 💻 WordPress & Web Developer | SEO-Friendly Website Expert
