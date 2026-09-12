@@ -1,3 +1,4 @@
+![Shamim Ahmed – WordPress Developer](https://avatars.githubusercontent.com/u/85074875?v=4)
 # 👋 Hi, I'm Shamim Ahmed
 
 ### 💻 WordPress & Web Developer | PHP Developer | AI-Powered Web Development
